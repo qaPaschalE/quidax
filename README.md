@@ -8,9 +8,9 @@
 
 # run `npm test` to run all tests
 
-# run `npm run cy:alertAndModels` to run tests for alerts and modals
+# run `npm run cy:alertAndModals` to run tests for alerts and modals
 
-# run `npm run cy:listBox` for list boxes test
+# run `npm run cy:listBoxes` for list boxes test
 
 # run `npm run cy:inputForms` for input forms test
 
